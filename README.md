@@ -1,6 +1,6 @@
 ### Data from: Swanson, G. E. (1960). The birth of the gods: The origin of primitive beliefs. University of Michigan Press.
 
-Note: Data have headings
+Note: Data have headings.
 After loading data into R, run the following to ensure that the column numbers correspond to the variable numbers found in the book's appendix:
 
 `d <- read.csv("Swanson_Data.csv")`\
